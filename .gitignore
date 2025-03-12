@@ -56,3 +56,4 @@ coverage.xml
 htmlcov
 ffmpeg.sh
 test.sh
+log.log
